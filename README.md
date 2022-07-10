@@ -1,5 +1,5 @@
 # Amazon_Vine_Analysis
-Analysis utilizing PySpark to perform ETL extracting one of the numerous datasets from Amazon reviews written by Amazon Vibe members. Transforming data, connecting to AWS RDS, and loading data into pgAdmin to identify bias from Vine members. The dataset taken from Amazon will consist of Furniture items.
+Analysis utilizing Google Colab and PySpark to perform ETL extracting one of the numerous datasets from Amazon reviews written by Amazon Vibe members. Transforming data, connecting to AWS RDS, and loading data into pgAdmin to identify bias from Vine members. The dataset taken from Amazon will consist of Furniture items.
 
 # The Results
 ![Screen Shot 2022-07-10 at 6 06 52 PM](https://user-images.githubusercontent.com/102098068/178165528-33ed2ae1-5e2b-4db1-a56c-06659dee9a95.png)
